@@ -1,2 +1,8 @@
-# underdash
-For now, an experimental Underscore+Lodash merge repository. Later, perhaps something greater.
+# Underdash.js
+
+This is an experimental Underscore+Lodash merge repo. Nothing to see here, 
+apart from sketches and wild ideas for the moment.
+
+## Fleshing out a consensus API:
+
+...
