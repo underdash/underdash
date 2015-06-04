@@ -54,6 +54,11 @@ to see here, apart from sketches and wild ideas for the moment.
 * forOwnRight
 * pick
 * defaults
+* has
+* matcher (match)
+* isMatch
+* property
+* propertyOf
 
 **Functions**
 
@@ -133,11 +138,6 @@ to see here, apart from sketches and wild ideas for the moment.
 * get
 * set
 * tap
-* has
-* matcher (match)
-* property
-* propertyOf
-* isMatch
 * isEmpty
 
 **Functions**
