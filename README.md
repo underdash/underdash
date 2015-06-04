@@ -61,6 +61,13 @@ to see here, apart from sketches and wild ideas for the moment.
 
 **Utility**
 
+* noConflict
+* times
+* mixin
+* iteratee
+* chain
+* value
+
 ## "More" Functions
 
 **Iteration**
@@ -118,6 +125,22 @@ to see here, apart from sketches and wild ideas for the moment.
 * before
 * wrap
 * negate
+
+**Utility**
+
+* identity
+* constant
+* noop
+* random
+* uniqueId
+* result
+* now
+
+**HTML**
+
+* escape
+* unescape
+* template
 
 **Types**
 
