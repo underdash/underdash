@@ -31,6 +31,11 @@ to see here, apart from sketches and wild ideas for the moment.
 
 **Arrays**
 
+* rest
+* compact
+* flatten
+* uniq
+
 **Objects**
 
 **Functions**
@@ -52,6 +57,23 @@ to see here, apart from sketches and wild ideas for the moment.
 * partition
 
 **Arrays**
+
+* first
+* last
+* initial
+* without
+* union
+* intersection
+* difference
+* zip
+* unzip
+* object
+* indexOf
+* lastIndexOf
+* sortedIndex
+* findIndex
+* findLastIndex
+* range
 
 **Objects**
 
