@@ -74,13 +74,12 @@ to see here, apart from sketches and wild ideas for the moment.
 
 * reduceRight
 * at
-* max
-* min
 * sortBy (This should be functionally sortByAll — let's lose the thisArg)
 * sortByOrder (But let's use 'asc' and 'desc' instead of truthy and falsy)
 * shuffle
 * sample
 * toArray
+* toPlainObject
 * size
 * partition
 
@@ -156,6 +155,10 @@ to see here, apart from sketches and wild ideas for the moment.
 * uniqueId
 * result
 * now
+* gt
+* gte
+* lt
+* lte
 
 **HTML**
 
@@ -163,12 +166,21 @@ to see here, apart from sketches and wild ideas for the moment.
 * unescape
 * template
 
+**Math**
+
+* max
+* min
+* add
+* sum
+
 **Types**
 
 * isElement
 * isArray
+* isTypedArray
 * isObject
 * isArguments
+* isError
 * isFunction
 * isString
 * isNumber
@@ -184,4 +196,5 @@ to see here, apart from sketches and wild ideas for the moment.
 
 * isEqual
 * flattenDeep
+* cloneDeep
 
