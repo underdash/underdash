@@ -67,11 +67,13 @@ to see here, apart from sketches and wild ideas for the moment.
 **Utility**
 
 * noConflict
+* underdash (`runInContext` from lodash)
 * times
 * mixin
 * iteratee
 * chain
 * value
+* attempt
 
 ## "More" Functions
 
