@@ -1,6 +1,6 @@
 # Underdash.js
 
-This is an experimental and provisional Underscore+Lodash merge repo. Nothing 
+This is an experimental and provisional Underscore+Lodash merge repo. Nothing
 to see here, apart from sketches and wild ideas for the moment.
 
 **Fleshing out a consensus API:**
@@ -11,7 +11,7 @@ to see here, apart from sketches and wild ideas for the moment.
 
 * each (forEach)
 * map
-* mapValues
+* mapObject (mapValues)
 * reduce
 * filter
 * find
@@ -20,7 +20,7 @@ to see here, apart from sketches and wild ideas for the moment.
 * reject
 * any (some)
 * all (every)
-* contains
+* contains (includes)
 * invoke
 * pluck
 
@@ -40,7 +40,7 @@ to see here, apart from sketches and wild ideas for the moment.
 **Objects**
 
 * keys
-* allKeys
+* allKeys (keysIn)
 * values
 * pairs
 * invert
@@ -62,7 +62,7 @@ to see here, apart from sketches and wild ideas for the moment.
 * memoize
 * throttle
 * debounce
-* compose
+* compose (backflow, flowRight)
 
 **Utility**
 
@@ -82,8 +82,9 @@ to see here, apart from sketches and wild ideas for the moment.
 * transform
 * reduceRight
 * at
-* sortBy (This should be functionally sortByAll — let's lose the thisArg)
-* sortByOrder (But let's use 'asc' and 'desc' instead of truthy and falsy)
+* sortBy
+* sortByAll
+* sortByOrder
 * shuffle
 * sample
 * toArray
@@ -129,10 +130,11 @@ to see here, apart from sketches and wild ideas for the moment.
 * findKey
 * omit
 * clone
+* get
+* set
 * tap
 * has
-* set
-* matcher
+* matcher (match)
 * property
 * propertyOf
 * isMatch
@@ -146,20 +148,20 @@ to see here, apart from sketches and wild ideas for the moment.
 * once
 * after
 * before
-* restArgs
+* restArgs (restParam)
 * spread
-* arity (`ary` from lodash)
+* arity (ary)
 * curry
 * curryRight
-* flow (could use better names for these, perhaps...)
-* flowRight
+* flow
+* flowRight (compose)
 * wrap
 * negate
 
 **Utility**
 
-* identity
 * constant
+* identity
 * noop
 * random
 * uniqueId
@@ -229,4 +231,3 @@ to see here, apart from sketches and wild ideas for the moment.
 * isEqual
 * flattenDeep
 * cloneDeep
-
