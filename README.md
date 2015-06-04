@@ -11,6 +11,7 @@ to see here, apart from sketches and wild ideas for the moment.
 
 * each (forEach)
 * map
+* mapObject
 * reduce
 * filter
 * find
@@ -37,6 +38,17 @@ to see here, apart from sketches and wild ideas for the moment.
 * uniq
 
 **Objects**
+
+* keys
+* allKeys
+* values
+* pairs
+* invert
+* create
+* extend
+* extendOwn
+* pick
+* defaults
 
 **Functions**
 
@@ -84,6 +96,18 @@ to see here, apart from sketches and wild ideas for the moment.
 
 **Objects**
 
+* functions
+* findKey
+* omit
+* clone
+* tap
+* has
+* matcher
+* property
+* propertyOf
+* isMatch
+* isEmpty
+
 **Functions**
 
 * bindAll
@@ -95,5 +119,24 @@ to see here, apart from sketches and wild ideas for the moment.
 * wrap
 * negate
 
+**Types**
+
+* isElement
+* isArray
+* isObject
+* isArguments
+* isFunction
+* isString
+* isNumber
+* isFinite
+* isBoolean
+* isDate
+* isRegExp
+* isNaN
+* isNull
+* isUndefined
+
 **Deep**
+
+* isEqual
 
