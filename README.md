@@ -73,9 +73,11 @@ to see here, apart from sketches and wild ideas for the moment.
 **Iteration**
 
 * reduceRight
+* at
 * max
 * min
-* sortBy
+* sortBy (This should be functionally sortByAll — let's lose the thisArg)
+* sortByOrder (But let's use 'asc' and 'desc' instead of truthy and falsy)
 * shuffle
 * sample
 * toArray
