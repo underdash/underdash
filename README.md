@@ -137,6 +137,13 @@ to see here, apart from sketches and wild ideas for the moment.
 * once
 * after
 * before
+* restArgs
+* spread
+* arity (`ary` from lodash)
+* curry
+* curryRight
+* flow (could use better names for these, perhaps...)
+* flowRight
 * wrap
 * negate
 
