@@ -11,7 +11,7 @@ to see here, apart from sketches and wild ideas for the moment.
 
 * each (forEach)
 * map
-* mapObject
+* mapValues
 * reduce
 * filter
 * find
@@ -46,7 +46,12 @@ to see here, apart from sketches and wild ideas for the moment.
 * invert
 * create
 * extend
-* extendOwn
+* assign
+* merge
+* forIn
+* forInRight
+* forOwn
+* forOwnRight
 * pick
 * defaults
 
@@ -72,6 +77,7 @@ to see here, apart from sketches and wild ideas for the moment.
 
 **Iteration**
 
+* transform
 * reduceRight
 * at
 * sortBy (This should be functionally sortByAll — let's lose the thisArg)
@@ -117,11 +123,13 @@ to see here, apart from sketches and wild ideas for the moment.
 **Objects**
 
 * functions
+* mapKeys
 * findKey
 * omit
 * clone
 * tap
 * has
+* set
 * matcher
 * property
 * propertyOf
@@ -160,6 +168,27 @@ to see here, apart from sketches and wild ideas for the moment.
 * lt
 * lte
 
+**String**
+
+* camelCase
+* capitalize
+* delatinize (`deburr` from lodash)
+* dasherize (`kebabCase` from lodash)
+* underscore (`snakeCase` form lodash)
+* headline (Let's try to do a real solid "Headline Case" implementation. It's worth it.)
+* truncate (`trunc` from lodash)
+* words
+* startsWith
+* endsWith
+* escapeRegExp
+* pad
+* padLeft
+* padRight
+* trim
+* trimLeft
+* trimRight
+* parseInt
+
 **HTML**
 
 * escape
@@ -172,6 +201,7 @@ to see here, apart from sketches and wild ideas for the moment.
 * min
 * add
 * sum
+* inRange
 
 **Types**
 
