@@ -9,9 +9,25 @@ to see here, apart from sketches and wild ideas for the moment.
 
 **Iteration**
 
+* each (forEach)
+* map
+* reduce
+* filter
+* find
+* where
+* findWhere
+* reject
+* any (some)
+* all (every)
+* contains
+* invoke
+* pluck
+
 **Grouping**
 
-**Sorting**
+* groupBy
+* indexBy
+* countBy
 
 **Arrays**
 
@@ -22,6 +38,18 @@ to see here, apart from sketches and wild ideas for the moment.
 **Utility**
 
 ## "More" Functions
+
+**Iteration**
+
+* reduceRight
+* max
+* min
+* sortBy
+* shuffle
+* sample
+* toArray
+* size
+* partition
 
 **Arrays**
 
