@@ -40,6 +40,13 @@ to see here, apart from sketches and wild ideas for the moment.
 
 **Functions**
 
+* bind
+* partial
+* memoize
+* throttle
+* debounce
+* compose
+
 **Utility**
 
 ## "More" Functions
@@ -78,6 +85,15 @@ to see here, apart from sketches and wild ideas for the moment.
 **Objects**
 
 **Functions**
+
+* bindAll
+* delay
+* defer
+* once
+* after
+* before
+* wrap
+* negate
 
 **Deep**
 
