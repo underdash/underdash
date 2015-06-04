@@ -91,6 +91,7 @@ to see here, apart from sketches and wild ideas for the moment.
 * union
 * intersection
 * difference
+* xor
 * zip
 * unzip
 * object
@@ -100,6 +101,17 @@ to see here, apart from sketches and wild ideas for the moment.
 * findIndex
 * findLastIndex
 * range
+* slice
+* fill
+* chunk
+* drop
+* dropWhile
+* dropRight
+* dropRightWhile
+* take
+* takeWhile
+* takeRight
+* takeRightWhile
 
 **Objects**
 
@@ -162,4 +174,5 @@ to see here, apart from sketches and wild ideas for the moment.
 **Deep**
 
 * isEqual
+* flattenDeep
 
