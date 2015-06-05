@@ -15,14 +15,11 @@ to see here, apart from sketches and wild ideas for the moment.
 * reduce
 * filter
 * find
-* where
-* findWhere
 * reject
 * any (some)
 * all (every)
 * contains (includes)
 * invoke
-* pluck
 
 **Grouping**
 
@@ -96,6 +93,9 @@ to see here, apart from sketches and wild ideas for the moment.
 * toPlainObject
 * size
 * partition
+* where
+* findWhere
+* pluck
 
 **Arrays**
 
