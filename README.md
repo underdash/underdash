@@ -20,7 +20,6 @@ to see here, apart from sketches and wild ideas for the moment.
 * all (every)
 * contains (includes)
 * invoke
-* pluck
 
 **Grouping**
 
@@ -96,6 +95,7 @@ to see here, apart from sketches and wild ideas for the moment.
 * partition
 * where
 * findWhere
+* pluck
 
 **Arrays**
 
