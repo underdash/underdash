@@ -206,6 +206,9 @@ to see here, apart from sketches and wild ideas for the moment.
 * add
 * sum
 * inRange
+* round
+* floor
+* ceil
 
 **Types**
 
