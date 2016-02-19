@@ -1,3 +1,3 @@
-# Underdash.js
+# Underdash
 
-Discussion has concluded with [issue #14](https://github.com/underdash/underdash/issues/14).
+The Underscore & Lodash scratch pad.
